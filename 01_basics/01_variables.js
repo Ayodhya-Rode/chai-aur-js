@@ -1,3 +1,5 @@
+'use strict'
+
 const name = 'Ayodhya'
 let mail = 'abc@gmail.com'
 var age = 90
