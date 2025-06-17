@@ -1,4 +1,4 @@
-// singlton     - obj using constructor not literals.
+
 
 //Object.create
 
