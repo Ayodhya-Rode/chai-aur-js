@@ -1,4 +1,7 @@
 
+// To run function immediately and keep variables private, avoiding polluting the global scope.
+
+
 (function Greet(){
     console.log('hello 1');
 })();
